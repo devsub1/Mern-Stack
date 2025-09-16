@@ -1,0 +1,12 @@
+.container{
+
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 10px red;
+    /* box-shadow: 20px 20px 10px 0px blueviolet; */
+    /* box-decoration-break: inset 10px 10px blue; */
+}
+
+/* offset-x offset-y blur radius spread-radius */
